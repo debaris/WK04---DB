@@ -18,7 +18,7 @@ function star(x, y, w, c) {
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  background(150, 150, 220);
+  background(60, 20, 22);
   strokeWeight(2);
 
   star(width / 4, height / 2, 200, 10);
@@ -27,3 +27,4 @@ function setup() {
 }
 
 function draw() {}
+
